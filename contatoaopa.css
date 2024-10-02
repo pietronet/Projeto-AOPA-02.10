@@ -1,0 +1,22 @@
+.contato_div_posicaotabela{
+    margin: 3%;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs{
+    position: relative;
+    justify-content: center;
+}
+
+
+
+.inputs input{ 
+margin: 10px;   
+display: block;
+}
+
+.contato_div_input_mensagem{
+padding: 10%;
+}
+
